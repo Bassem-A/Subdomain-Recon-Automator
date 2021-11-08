@@ -1,5 +1,5 @@
 # Subdomain-Recon-Automator
-A very simple script that uses multiple already popular tools to enumerate and find subdomains from target.
+A very simple script that uses multiple already popular tools to enumerate and find subdomains from target. Makes workflow faster and it's easy to customize. 
 
 
 
