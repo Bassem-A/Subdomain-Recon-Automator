@@ -11,4 +11,5 @@ A very simple script that uses multiple already popular tools to enumerate and f
 
 
 ### How-To-Use  
+- mkdir tmp
 - SRA < targets.txt
